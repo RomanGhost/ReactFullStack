@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ADD8E6;
+    padding: 12px;
+    color: #333;
+  }
+  
+  .header h2 {
+    font-size: 1.5rem; /* размер заголовка */
+  }
+  
+  .prices {
+    display: flex;
+    align-items: center;
+  }
+  
+  .price-gap {
+    margin-right: 20px; /* Отступ между ценами */
+  }
